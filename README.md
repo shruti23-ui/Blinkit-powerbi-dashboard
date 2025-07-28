@@ -167,7 +167,6 @@ blinkit-powerbi-dashboard/
 | **All Markets** | $1.2M | $141 | 8,523 | 3.9/5 | Complete portfolio coverage |
 | **Tier 1** | $50.1K | $149 | 337 | 3.9/5 | Premium urban focus |
 | **Tier 2** | $35.1K | $152 | 232 | 3.9/5 | Efficiency optimization |
-| **Tier 3** | [Calculated] | [Calculated] | [Calculated] | 3.9/5 | Market penetration |
 
 ### Key Performance Insights
 
