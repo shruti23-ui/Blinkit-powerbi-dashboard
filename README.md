@@ -8,7 +8,7 @@
 
 ## Dashboard Overview
 
-![Blinkit Dashboard](screenshots/Blinkit_page-0001.jpg)
+![Blinkit Dashboard](Blinkit_page-0001.jpg)
 
 ## Project Description
 
@@ -196,13 +196,6 @@ Contributions to improve this dashboard are welcome. Please follow these procedu
 - Extended product category analysis
 - Enhanced user interaction features
 - Automated report generation functionality
-
-## Support and Documentation
-
-- **Project Repository**: [GitHub Repository Link]
-- **Issue Tracking**: [GitHub Issues Page]
-- **Documentation Wiki**: [Project Wiki Link]
-- **Technical Support**: [Contact Information]
 
 ## License
 
